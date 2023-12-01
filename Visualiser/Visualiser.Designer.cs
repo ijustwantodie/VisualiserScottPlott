@@ -54,8 +54,8 @@
             // toolStripStatusLabel1
             // 
             toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-            toolStripStatusLabel1.Size = new Size(154, 17);
-            toolStripStatusLabel1.Text = "Click plot to display a graph";
+            toolStripStatusLabel1.Size = new Size(84, 17);
+            toolStripStatusLabel1.Text = "Harry Chittock";
             // 
             // menuStrip1
             // 
